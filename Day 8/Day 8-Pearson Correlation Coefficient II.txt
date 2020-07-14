@@ -1,0 +1,10 @@
+The regression line of  on  is , and the regression line of  on  is . What is the value of the Pearson correlation coefficient?
+
+Note: If you haven't seen it already, you may find our Pearson Correlation Coefficient Tutorial helpful in answering this question.
+
+a. 1
+b. -1
+c. 3 / 4
+d. -4 / 3
+e. 4 / 3
+f. -3 / 4 (Ans)
